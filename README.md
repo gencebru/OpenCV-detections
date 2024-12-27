@@ -1,2 +1,4 @@
-# OpenCV ile uğraşırken benim için öğretici olan çalışmalardır.
-python 3.7 ile yazılmıştır. 
+# OpenCV kütüphanesi ile öğrenim amaçlı temel çalışmalar
+python 3.7 kullanılmıştır. 
+
+- text reading için pytesseract ocr kullanılmıştır. 
